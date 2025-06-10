@@ -36,7 +36,7 @@ defmodule Zcashex.MixProject do
   defp package() do
     [
       licenses: ["Apache-2.0"],
-      links: %{"GitHub" => "https://github.com/nighthawk-apps/zcashex"}
+      links: %{"GitHub" => "https://github.com/zcash/zcashex"}
     ]
   end
 end
